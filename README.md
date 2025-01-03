@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack, Mobile app development**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Redux, and Next.js**
 
 - 📫 How to reach me **nirmalperera2509@gmail.com**
 
