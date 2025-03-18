@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Nirmal Perera</h1>
 <h3 align="center">A passionate student from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manusha-nirmal-perera&label=Profile%20views&color=0e75b6&style=flat" alt="manusha-nirmal-perera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmal-404&label=Profile%20views&color=0e75b6&style=flat" alt="nirmal-404" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manusha-nirmal-perera" alt="manusha-nirmal-perera" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirmal-404" alt="nirmal-404" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack, Mobile app development**
 
@@ -51,8 +51,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manusha-Nirmal-Perera&show_icons=true&locale=en&layout=compact" alt="Manusha-Nirmal-Perera" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmal-404&show_icons=true&locale=en&layout=compact" alt="nirmal-404" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manusha-Nirmal-Perera&show_icons=true&locale=en" alt="Manusha-Nirmal-Perera" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?usernamenirmal-404&show_icons=true&locale=en" alt="nirmal-404" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manusha-Nirmal-Perera&" alt="Manusha-Nirmal-Perera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-404&" alt="nirmal-404" /></p>
