@@ -53,6 +53,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmal-404&show_icons=true&locale=en&layout=compact" alt="nirmal-404" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?usernamenirmal-404&show_icons=true&locale=en" alt="nirmal-404" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmal-404&show_icons=true&locale=en" alt="nirmal-404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-404&" alt="nirmal-404" /></p>
