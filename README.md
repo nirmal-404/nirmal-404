@@ -38,17 +38,24 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2TPZEoU_WaztHovZN7mFiZRk5Zfd1ZfP1hYqwFDDVw&s" alt="nariadb" width="40" height="40"/> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2TPZEoU_WaztHovZN7mFiZRk5Zfd1ZfP1hYqwFDDVw&s" alt="mariadb" width="40" height="40"/> 
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" height="40"/> 
         <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" height="40"/> 
-        <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="redis" height="40"/> 
+        <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="rabbitmq" height="40"/> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-        <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="linux" width="40" height="40"/> 
+        <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="gihubactions" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="40"/> 
+        <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" alt="prisma" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" height="40"/> 
+        <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" alt="bun" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Hono-logo.svg" alt="hono" height="40"/>
 </p>
 
 
