@@ -56,6 +56,8 @@
         <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" height="40"/> 
         <img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" alt="bun" height="40"/> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Hono-logo.svg" alt="hono" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socketio" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" height="40"/>
 </p>
 
 
