@@ -21,6 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<!-- Programming Languages-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -28,6 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 
+<!-- Frontend Technologies -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/> 
@@ -35,13 +37,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 
+<!-- Backend Technologies -->
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" alt="nodejs" height="40"/> 
-<img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="" height="40"/> 
+<img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/bunsh/bunsh-icon.svg" alt="bun" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Hono-logo.svg" alt="hono" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21~bgwhite.svg" alt="maven" height="40"/>
 
+<!-- Databases & ORM -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2TPZEoU_WaztHovZN7mFiZRk5Zfd1ZfP1hYqwFDDVw&s" alt="mariadb" width="40" height="40"/> 
@@ -52,23 +57,29 @@
 <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" height="40"/> 
 <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" alt="prisma" height="40"/> 
 
-<img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="rabbitmq" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21~bgwhite.svg" alt="socketio" height="40"/>
-
+<!-- DevOps & CI/CD -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-<img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="gihubactions" width="40" height="40"/> 
+<img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" alt="vercel" height="40"/>
 
+<!-- Message Brokers & Real-time Communication -->
+<img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="rabbitmq" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21~bgwhite.svg" alt="socketio" height="40"/>
+
+<!-- Logging & Monitoring -->
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" height="40"/> 
 <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21~bgwhite.svg" alt="kibana" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21~bgwhite.svg" alt="elastic" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21~bgwhite.svg" alt="logstash" height="40"/>
 
+<!-- Tools -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  
 
 </p>
 
