@@ -56,6 +56,7 @@
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" height="40"/> 
 <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" alt="prisma" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/neon-icon.svg" alt="neon" height="40"/> 
 
 <!-- DevOps & CI/CD -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
