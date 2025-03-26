@@ -57,12 +57,14 @@
 <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" height="40"/> 
 <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" alt="prisma" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/neon-icon.svg" alt="neon" height="40"/> 
+<img src="https://upload.vectorlogo.zone/logos/flywaydb/images/b336d129-8bbb-48b4-bed0-55ddd690cef4.svg" alt="flyway" height="40"/> 
 
 <!-- DevOps & CI/CD -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" alt="vercel" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21~bgwhite.svg" alt="jenkins" height="40"/>
 
 <!-- Message Brokers & Real-time Communication -->
 <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="rabbitmq" height="40"/> 
@@ -81,6 +83,10 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  
+
+<!-- Project Management & Collaboration -->
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>  
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="trello" height="40"/>  
 
 </p>
 
