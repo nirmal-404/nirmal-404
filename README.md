@@ -73,9 +73,9 @@
 <!-- Logging & Monitoring -->
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" height="40"/> 
 <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21~bgwhite.svg" alt="kibana" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21~bgwhite.svg" alt="elastic" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21~bgwhite.svg" alt="logstash" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21~bgwhite.svg" alt="kibana" height="40"/>
 
 <!-- Tools -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
