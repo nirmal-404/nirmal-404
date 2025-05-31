@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirmal-404" alt="nirmal-404" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack, Mobile app development**
+- 🌱 I’m currently learning **Springboot, Mobile app develpment - React Native**
 
-- 💬 Ask me about **React, Redux, and Next.js**
+- 💬 Ask me about **React, Redux**
 
 - 📫 How to reach me **nirmalperera2509@gmail.com**
 
@@ -36,7 +36,7 @@
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> 
+<!--<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> -->
 
 <!-- Backend Technologies -->
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" alt="nodejs" height="40"/> 
@@ -58,14 +58,14 @@
 <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" height="40"/> 
 <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" alt="prisma" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/neon-icon.svg" alt="neon" height="40"/> 
-<img src="https://upload.vectorlogo.zone/logos/flywaydb/images/b336d129-8bbb-48b4-bed0-55ddd690cef4.svg" alt="flyway" height="40"/> 
+<!-- <img src="https://upload.vectorlogo.zone/logos/flywaydb/images/b336d129-8bbb-48b4-bed0-55ddd690cef4.svg" alt="flyway" height="40"/> -->
 
 <!-- DevOps & CI/CD -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" height="40"/>
+<!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" height="40"/> -->
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" alt="vercel" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21~bgwhite.svg" alt="jenkins" height="40"/>
+<!-- <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21~bgwhite.svg" alt="jenkins" height="40"/> -->
 
 <!-- Message Brokers & Real-time Communication -->
 <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="rabbitmq" height="40"/> 
@@ -74,9 +74,9 @@
 <!-- Logging & Monitoring -->
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" height="40"/> 
 <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21~bgwhite.svg" alt="elastic" height="40"/>
+<!-- <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21~bgwhite.svg" alt="elastic" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21~bgwhite.svg" alt="logstash" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21~bgwhite.svg" alt="kibana" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21~bgwhite.svg" alt="kibana" height="40"/> -->
 
 <!-- Tools -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
