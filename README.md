@@ -36,6 +36,8 @@
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21~bgwhite.svg" alt="expo" height="40"/> 
+<img src="https://clerk.com/v2/favicon.ico" alt="clerk" height="40"/> 
 <!--<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> -->
 
 <!-- Backend Technologies -->
@@ -46,6 +48,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Hono-logo.svg" alt="hono" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21~bgwhite.svg" alt="maven" height="40"/>
+<img src="https://upstash.com/icons/apple-touch-icon.png" alt="upstash" height="40"/>
 
 <!-- Databases & ORM -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -65,6 +68,7 @@
 <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" width="40" height="40"/> 
 <!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" height="40"/> -->
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" alt="vercel" height="40"/>
+<img src="https://railway.com/favicon-96x96.png" alt="railway" height="40"/>
 <!-- <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21~bgwhite.svg" alt="jenkins" height="40"/> -->
 
 <!-- Message Brokers & Real-time Communication -->
