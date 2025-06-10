@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21~bgwhite.svg" alt="expo" height="40"/> 
 <img src="https://clerk.com/v2/favicon.ico" alt="clerk" height="40"/> 
-<!--<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> -->
+<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
 
 <!-- Backend Technologies -->
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" alt="nodejs" height="40"/> 
