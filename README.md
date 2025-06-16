@@ -97,7 +97,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmal-404&show_icons=true&locale=en&layout=compact&langs_count=10" alt="nirmal-404" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmal-404&show_icons=true&locale=en&layout=compact&langs_count=12" alt="nirmal-404" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmal-404&show_icons=true&locale=en" alt="nirmal-404" /></p>
 
