@@ -51,6 +51,8 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21~bgwhite.svg" alt="maven" height="40"/>
 <img src="https://upstash.com/icons/apple-touch-icon.png" alt="upstash" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/drizzleteam/drizzleteam-ar21~bgwhite.svg" alt="drizzle" height="40"/>
+<img src="https://www.better-auth.com/favicon/favicon.ico" alt="better-auth" height="40"/>
 
 <!-- Databases & ORM -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
