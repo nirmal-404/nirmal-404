@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Springboot, Mobile app develpment - React Native**
 
-- 💬 Ask me about **React, Redux**
+- 💬 Ask me about **React, Redux, NextJS**
 
 - 📫 How to reach me **nirmalperera2509@gmail.com**
 
@@ -77,6 +77,7 @@
 
 <!-- Message Brokers & Real-time Communication -->
 <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="rabbitmq" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg" alt="kafka" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21~bgwhite.svg" alt="socketio" height="40"/>
 
 <!-- Logging & Monitoring -->
