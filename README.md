@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/nirmal-404.svg)](https://user-badge.committers.top/sri_lanka_public/nirmal-404)
+
 ![image](https://github.com/user-attachments/assets/3e1f7f85-c157-476e-8cec-fccc8728c5c7)
 
 <h1 align="center">Hi 👋, I'm Nirmal Perera</h1>
