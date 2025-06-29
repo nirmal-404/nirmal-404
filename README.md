@@ -76,6 +76,7 @@
 <!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" height="40"/> -->
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" alt="vercel" height="40"/>
 <img src="https://railway.com/favicon-96x96.png" alt="railway" height="40"/>
+<img src="https://cdn.prod.website-files.com/6539036f80ddc9e9a467134e/65546e419e7e9b3f9cf3408c_favicon.png" alt="localstack" height="40" />
 <!-- <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21~bgwhite.svg" alt="jenkins" height="40"/> -->
 
 <!-- Message Brokers & Real-time Communication -->
