@@ -28,6 +28,7 @@
 <!-- Programming Languages-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -56,6 +57,7 @@
 <img src="https://upstash.com/icons/apple-touch-icon.png" alt="upstash" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/drizzleteam/drizzleteam-ar21~bgwhite.svg" alt="drizzle" height="40"/>
 <img src="https://www.better-auth.com/favicon/favicon.ico" alt="better-auth" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt="dotnet" height="40"/>
 
 <!-- Databases & ORM -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
