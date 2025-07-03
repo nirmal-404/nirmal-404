@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirmal-404" alt="nirmal-404" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot, Mobile app develpment - React Native**
+- 🌱 I’m currently learning **>NET, Mobile app develpment - React Native**
 
 - 💬 Ask me about **React, Redux, NextJS**
 
