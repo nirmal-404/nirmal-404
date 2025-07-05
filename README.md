@@ -63,7 +63,7 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21~bgwhite.svg" alt="sqlite" width="70" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" width="100" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" width="120" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="100" height="40"/> 
 <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" alt="prisma" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/neon-icon.svg" alt="neon" width="40" height="40"/> 
