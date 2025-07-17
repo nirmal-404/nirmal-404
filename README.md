@@ -38,6 +38,7 @@
 <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" height="40" width="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21~bgwhite.svg" alt="expo" width="70" height="40"/> 
 <img src="https://clerk.com/v2/favicon.ico" alt="clerk" width="40" height="40"/> 
