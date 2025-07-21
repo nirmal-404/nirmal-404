@@ -16,7 +16,7 @@ jobs:
       - name: Update badge URL with timestamp
         run: |
           TIMESTAMP=$(date +%s)
-          sed -i 's|https://user-badge\.committers\.top/sri_lanka_public/nirmal-404\.svg.*|https://user-badge.committers.top/sri_lanka_public/nirmal-404.svg?v='"$TIMESTAMP"'|g' README.md
+          sed -i 's|\(https://user-badge\.committers\.top/sri_lanka_public/nirmal-404\.svg\)[^)]*|\1?v='"$TIMESTAMP"'|g' README.md
 
       - name: Commit and push changes using PAT
         env:
