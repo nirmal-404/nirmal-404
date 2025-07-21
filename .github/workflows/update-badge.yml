@@ -2,22 +2,23 @@ name: Refresh GitHub Badge Cache
 
 on:
   schedule:
-    - cron: '0 6 * * *' # Every day at 6:00 AM UTC
-  workflow_dispatch: # Manual trigger
+    - cron: '0 6 * * *' # Every day at 6 AM UTC
+  workflow_dispatch:
 
 jobs:
   refresh-badge:
     runs-on: ubuntu-latest
     steps:
-      - name: Clone your repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
-      - name: Generate cache-busted badge line
+      - name: Update badge URL with timestamp
         run: |
           TIMESTAMP=$(date +%s)
           sed -i 's|https://user-badge\.committers\.top/sri_lanka_public/nirmal-404\.svg.*|https://user-badge.committers.top/sri_lanka_public/nirmal-404.svg?v='"$TIMESTAMP"'|g' README.md
 
-      - name: Commit & Push using PAT
+      - name: Commit and push changes using PAT
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
