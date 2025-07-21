@@ -1,0 +1,25 @@
+name: Refresh GitHub Badge Cache
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Every day at 6:00 AM UTC
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  refresh-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone your repo
+        uses: actions/checkout@v3
+
+      - name: Generate cache-busted badge line
+        run: |
+          TIMESTAMP=$(date +%s)
+          sed -i 's|https://user-badge\.committers\.top/sri_lanka_public/nirmal-404\.svg.*|https://user-badge.committers.top/sri_lanka_public/nirmal-404.svg?v='"$TIMESTAMP"'|g' README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git commit -am "chore: refresh badge cache"
+          git push
