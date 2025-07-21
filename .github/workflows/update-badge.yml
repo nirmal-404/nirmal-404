@@ -17,9 +17,13 @@ jobs:
           TIMESTAMP=$(date +%s)
           sed -i 's|https://user-badge\.committers\.top/sri_lanka_public/nirmal-404\.svg.*|https://user-badge.committers.top/sri_lanka_public/nirmal-404.svg?v='"$TIMESTAMP"'|g' README.md
 
-      - name: Commit and push changes
+      - name: Commit & Push using PAT
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git commit -am "chore: refresh badge cache"
-          git push
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/nirmal-404/nirmal-404.git
+          git add README.md
+          git commit -m "chore: refresh badge cache"
+          git push origin main
