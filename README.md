@@ -79,8 +79,9 @@
 <!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" title="azure" height="40"/> -->
 <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" alt="vercel" title="vercel" width="70" height="40"/>
 <img src="https://railway.com/favicon-96x96.png" alt="railway" title="railway" width="40" height="40"/>
+<img src="https://app.netlify.com/favicon-48x48.png" alt="netify" title="netify" width="40" height="40"/>
 <img src="https://cdn.prod.website-files.com/6539036f80ddc9e9a467134e/65546e419e7e9b3f9cf3408c_favicon.png" alt="localstack" title="localstack" height="40" />
-<img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21~bgwhite.svg" alt="sentry" title="sentry" height="40" />
+
 <!-- <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21~bgwhite.svg" alt="jenkins" title="jenkins" height="40"/> -->
 
 <!-- Message Brokers & Real-time Communication -->
@@ -91,6 +92,7 @@
 <!-- Logging & Monitoring -->
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" title="prometheus" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" title="grafana" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21~bgwhite.svg" alt="sentry" title="sentry" height="40" />
 <!-- <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21~bgwhite.svg" alt="elasticsearch" title="elasticsearch" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21~bgwhite.svg" alt="logstash" title="logstash" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21~bgwhite.svg" alt="kibana" title="kibana" height="40"/> -->
