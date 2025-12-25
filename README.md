@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=nirmal-404&label=Profile%20views&color=0e75b6&style=flat" alt="profile.views" /> ![Badge](https://user-badge.committers.top/sri_lanka_public/nirmal-404.svg?v=1766644121)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-lake.vercel.app/?username=nirmal-404" alt="nirmal-404" /></a> </p>
+<p align="left"> <a href=""><img src="https://trophies-private.vercel.app/" alt="nirmal-404" /> </p>
 
 - 🌱 I’m currently learning **.NET-Desktop App Development, Mobile app develpment - React Native**
 
