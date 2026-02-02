@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nirmal Perera</h1>
 <h3 align="center">A passionate student from Sri Lanka</h3>
 
-<img src="https://komarev.com/ghpvc/?username=nirmal-404&label=Profile%20views&color=0e75b6&style=flat" alt="profile.views" /> ![Badge](https://user-badge.committers.top/sri_lanka_public/nirmal-404.svg?v=1769928239)
+<img src="https://komarev.com/ghpvc/?username=nirmal-404&label=Profile%20views&color=0e75b6&style=flat" alt="profile.views" /> ![Badge](https://user-badge.committers.top/sri_lanka_public/nirmal-404.svg?v=1770015556)
 
 <p align="left"> <a href=""><img src="https://trophies-private.vercel.app/" alt="nirmal-404" /> </p>
 
