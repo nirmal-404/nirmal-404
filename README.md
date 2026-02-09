@@ -111,8 +111,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmal-404&show_icons=true&locale=en&layout=compact&langs_count=20" alt="nirmal-404" /></p>
+<p><img align="left" src="https://readme-stats-kappa-swart.vercel.app/api/top-langs?show_icons=true&locale=en&layout=compact&langs_count=20" alt="nirmal-404" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmal-404&show_icons=true&locale=en" alt="nirmal-404" /></p>
+<p>&nbsp;<img align="center" src="https://readme-stats-kappa-swart.vercel.app/api?show_icons=true&locale=en" alt="nirmal-404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-404&" alt="nirmal-404" /></p>
