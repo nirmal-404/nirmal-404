@@ -189,7 +189,11 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" title="github" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon-32x32.png" alt="bitbucket" title="bitbucket" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="postman" width="40" height="40"/> 
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://assets.apidog.com/static/logo/favicon.ico" alt="apidog" title="apidog" width="40" height="40"/> 
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="figma" width="40" height="40"/> 
   &nbsp;&nbsp;&nbsp;
