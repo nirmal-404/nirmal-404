@@ -89,7 +89,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" title="spring" width="40" height="40"/> 
   &nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21~bgwhite.svg" alt="upstash" title="upstash" width="70" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21~bgwhite.svg" alt="maven" title="maven" width="70" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://upstash.com/icons/apple-touch-icon.png" alt="upstash" title="upstash" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
