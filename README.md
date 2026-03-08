@@ -191,6 +191,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon-32x32.png" alt="bitbucket" title="bitbucket" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
+    <img src="https://about.gitea.com/gitea.png" alt="gitea" title="gitea" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="postman" width="40" height="40"/> 
   &nbsp;&nbsp;&nbsp;
   <img src="https://assets.apidog.com/static/logo/favicon.ico" alt="apidog" title="apidog" width="40" height="40"/> 
