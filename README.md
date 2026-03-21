@@ -15,9 +15,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nirmal-perera-65446b252/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal perera" height="40" width="40"/></a>
-<a href="https://fb.com/nirmal perera" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirmal perera" height="40" width="40" /></a>
-  <a href="https://wa.me/94758908057?text=Hello%20there%2C%20I%20have%20a%20question!" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="nirmal perera" height="40" width="40"/></a>
+  <a href="https://www.linkedin.com/in/nirmal-perera-65446b252/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://fb.com/nirmal perera" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="facebook" height="40" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/94758908057?text=Hello%20there%2C%20I%20have%20a%20question!" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="whatsapp" height="40" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/94758908057?text=Hello%20there%2C%20I%20have%20a%20question!" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="medium" height="40" width="40"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/25979111/nirmal-perera?tab=profile" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="stackoverflow" height="40" width="40"/></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
