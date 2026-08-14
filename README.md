@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nirmal-perera-65446b252/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40"/></a>
+  <a href="https://www.linkedin.com/in/nirmal-perera-kam/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/nirmal perera" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="facebook" height="40" width="40" /></a>
   &nbsp;&nbsp;&nbsp;
