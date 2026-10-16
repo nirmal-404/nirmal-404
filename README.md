@@ -144,6 +144,10 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://kubernetes.io/icons/icon-128x128.png" alt="kubernetes" title="kubernetes" width="40" height="40"/> 
   &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> 
+  &nbsp;&nbsp;&nbsp;
+  <img src="ttps://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> 
+  &nbsp;&nbsp;&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="githubactions" width="40" height="40"/> 
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.jenkins.io/favicon-32x32.png" alt="jenkins" title="jenkins" width="40" height="40"/> 
