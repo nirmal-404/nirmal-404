@@ -146,13 +146,13 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> 
   &nbsp;&nbsp;&nbsp;
-  <img src="ttps://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> 
   &nbsp;&nbsp;&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="githubactions" width="40" height="40"/> 
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.jenkins.io/favicon-32x32.png" alt="jenkins" title="jenkins" width="40" height="40"/> 
   &nbsp;&nbsp;&nbsp;
-  <!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" title="azure" height="40"/> -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" title="azure" height="40"/>
   
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21~bgwhite.svg" alt="vercel" title="vercel" width="70" height="40"/>
   &nbsp;&nbsp;&nbsp;
